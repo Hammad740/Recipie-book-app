@@ -1,8 +1,6 @@
 
 # Recipe Book App
 
-![App Screenshot](screenshot.png)
-
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
