@@ -1,8 +1,6 @@
 
 # Recipe Book App
 
-![App Screenshot]("C:\Users\mohdh\OneDrive\Pictures\Screenshots\Screenshot (298).png")
-
 ## Table of Contents
 - [Description](#description)
 - [Features](#features)
