@@ -66,7 +66,3 @@ If you'd like to contribute to the development of this app, please follow these 
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README template to include any additional information or details specific to your project. Providing clear instructions and information about your Recipe Book App will help users and potential contributors understand and use your application effectively.
